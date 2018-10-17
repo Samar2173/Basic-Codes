@@ -1,0 +1,9 @@
+#-*-coding:utf8;-*-
+#qpy:3
+#qpy:console
+i=0
+sum=0
+while(i<11):
+ sum=i+sum
+ i=i+1
+print(sum)
